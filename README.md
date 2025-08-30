@@ -7,38 +7,38 @@ The analysis provides **insights into Netflix’s content trends**, such as:
 ## 🔎 Key Insights & Visualizations
 
 1. **Percentage of Content Ratings**
-   ![Content Rating Pie](content_Rating_pie.png)
+   ![Content Rating Pie]
 
    * TV-MA (36.8%) and TV-14 (24.2%) dominate Netflix’s content.
    * Family/children-friendly ratings (TV-Y, PG, G) make up only a small fraction.
 
 2. **Distribution of Movie Durations**
-   ![Movie Duration Histogram](movie_duration_hist.png)
+   ![Movie Duration Histogram]
 
    * Most movies are between **80–120 minutes**, peaking around \~95 minutes.
    * Very few movies go beyond 200 minutes.
 
 3. **Comparison of Movies vs TV Shows Released Over the Years**
-   ![Movies vs TV Shows](movie_tv_shows_comparison.png)
+   ![Movies vs TV Shows]
 
    * Steady rise after 2000, with a sharp increase post-2010.
    * Movies (blue) are consistently higher, but TV shows (red) have grown rapidly in the last decade.
 
 4. **Number of Movies vs TV Shows on Netflix**
-   ![Movies vs TV Shows Bar](movie_vs_Tvshows.png)
+   ![Movies vs TV Shows Bar]
 
    * Movies: \~5700
    * TV Shows: \~2300
    * Movies dominate the platform with more than double the count of TV shows.
 
 5. **Release Year vs Number of Shows**
-   ![Release Year Scatter](release_year_scatter.png)
+   ![Release Year Scatter]
 
    * Explosion of new content after 2010, especially in 2018–2020.
    * 2020 marks one of the highest peaks in Netflix releases.
 
 6. **Top 10 Countries by Number of Shows**
-   ![Top Countries](top10_countries.png)
+   ![Top Countries]
 
    * United States leads with **2800+ shows**, followed by India (\~1000).
    * UK, Japan, South Korea, and Canada are other major contributors.
